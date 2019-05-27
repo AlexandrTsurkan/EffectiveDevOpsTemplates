@@ -33,7 +33,7 @@ from awacs.sts import AssumeRole
 ApplicationName = "jenkins"
 ApplicationPort = "8080"
 
-GithubAccount = "EffectiveDevOpsWithAWS"
+GithubAccount = "AlexandrTsurkan"
 GithubAnsibleURL = "https://github.com/{}/ansible".format(GithubAccount)
 
 AnsiblePullCmd = \
