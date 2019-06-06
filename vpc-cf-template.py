@@ -65,7 +65,7 @@ t.add_resource(VPCGatewayAttachment(
 ))
 
 accessibility = ["Private", "Public"]
-names = ["A", "B", "C", "D"]
+names = ["A", "B", "C"]
 count = 0
 
 for a in accessibility:
